@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amistry24
 - 👀 I’m interested in Software Development!
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently studying Computer Science
 - 💞️ I’m looking to collaborate on all projects!
 
 <!---
